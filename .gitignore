@@ -1,0 +1,17 @@
+# Сборка PascalABC.NET
+*.exe
+*.pdb
+*.mdb
+*.dll
+*.pcu
+bin/
+obj/
+
+# Редакторы и ОС
+*.bak
+*~
+.vs/
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
